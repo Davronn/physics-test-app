@@ -1,0 +1,4533 @@
+[
+  {
+    "id": 1,
+    "group": 1,
+    "question": "Muxitning sindirish ko‘rsatgichi nimaga bog'liq",
+    "options": [
+      {
+        "text": "yoruglikning rangiga va muxitning tabiatiga boglik",
+        "isCorrect": true
+      },
+      {
+        "text": "tushish va sinish burchagiga",
+        "isCorrect": false
+      },
+      {
+        "text": "sinish burchagiga boglik",
+        "isCorrect": false
+      },
+      {
+        "text": "tushish burchagiga boglik",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "group": 1,
+    "question": "Absolyut sindirish ko‘rsatkich deb ...",
+    "options": [
+      {
+        "text": "yorug‘likning vakuumdagi tezligining muhitdagi tezliklari nisbatiga aytiladi.",
+        "isCorrect": true
+      },
+      {
+        "text": "yorug‘lik tushish burchagi sinusining sinish burchagi sinusiga nisbatiga aytiladi",
+        "isCorrect": false
+      },
+      {
+        "text": "yorug‘likning  2  muhitdagi tezligining 1 muhitdagi tezliklari",
+        "isCorrect": false
+      },
+      {
+        "text": "yorug‘likning 1 muhitdagi tezligining ikkinchi muhitdagi tezligi nisbatiga aytiladi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "group": 1,
+    "question": "Yorug'lik  to‘lqin  frontining  har bir nuqtasi ikkilamchi yorug‘lik manbai bo‘ladi deb nom olgan prinsipni ... Yaratgan",
+    "options": [
+      {
+        "text": "Gyuygens",
+        "isCorrect": true
+      },
+      {
+        "text": "Frenel",
+        "isCorrect": false
+      },
+      {
+        "text": "Nyuton",
+        "isCorrect": false
+      },
+      {
+        "text": "Yung",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "group": 1,
+    "question": "Kogerent  manbalar deb ..... ataladi",
+    "options": [
+      {
+        "text": "bir xil chastotali, vaqt o‘tishi bilan fazalar farqi o‘zgarmasdan saqlanadigan yorug‘lik to‘lqinlarni tarqatadigan  manbalarga",
+        "isCorrect": true
+      },
+      {
+        "text": "faqat chastotalari bir xil bo‘lgan yorug‘lik to‘lqinlapni tarqatadigan",
+        "isCorrect": false
+      },
+      {
+        "text": "faqat to‘lqin uzunligi bir xil bo‘lgan yorug‘lik to‘lqin tarqatadigan manbalarga.",
+        "isCorrect": false
+      },
+      {
+        "text": "faqat vaqt o‘tishi bilan fazalar farqi o‘zgarmasdan qoladigan yorug‘lik to‘lkinlarni tarqatadigan manbalarga",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "group": 1,
+    "question": "Ikkita kogerent manbalardan chiqqan yorug‘lik to‘lkinlarining bir nuqtaga  kelib  tushganida bir-birini kuchaytirishi yoki so‘ndirishiga yorug‘likning ..",
+    "options": [
+      {
+        "text": "interferensiyasi deyiladi.",
+        "isCorrect": true
+      },
+      {
+        "text": "dispersiyasi deyiladi",
+        "isCorrect": false
+      },
+      {
+        "text": "qutblanishi deyiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "difraksiyasi deyiladi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "group": 1,
+    "question": "Fotoeffekt hodisasini kim topgan",
+    "options": [
+      {
+        "text": "G.Gerts",
+        "isCorrect": true
+      },
+      {
+        "text": "V. A.Popov",
+        "isCorrect": false
+      },
+      {
+        "text": "B. M.Faradey",
+        "isCorrect": false
+      },
+      {
+        "text": "A. A.Eynshtey",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "group": 1,
+    "question": "Fotoeffektning qizil chegarasi formulasini ko‘rsating.",
+    "options": [
+      {
+        "text": "hc/λk = A",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "group": 1,
+    "question": "Fotoeffekt uchun Eynshteyn tenglamasi formulasini ko‘rsating.",
+    "options": [
+      {
+        "text": "hv = A + mv^2/2",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "group": 1,
+    "question": "Issiqlik nurlanish qonunlarini toping",
+    "options": [
+      {
+        "text": "Kirxgof qonuni, Stefon – Bolsman qonuni,  Vinning siljish qonuni, Reley-Jins",
+        "isCorrect": true
+      },
+      {
+        "text": "Stefon – Bolsman qonuni, Om qonuni, Nyuton qonuni.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vinning siljish qonuni, Plank qonuni.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reley -  Jins qonuni",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "group": 1,
+    "question": "Foton energiyasining formulasini ko‘rsating.",
+    "options": [
+      {
+        "text": "E=hʋ",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "group": 1,
+    "question": "De-Broyl  formulasini ko‘rsating",
+    "options": [
+      {
+        "text": "λ = h/mv",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "group": 1,
+    "question": "Magnit maydondagi tokli o‘tkazgichga ta’sir qiluvchi kuch qanday kuch",
+    "options": [
+      {
+        "text": "Amper kuchi",
+        "isCorrect": true
+      },
+      {
+        "text": "Tashqi kuch",
+        "isCorrect": false
+      },
+      {
+        "text": "Lens",
+        "isCorrect": false
+      },
+      {
+        "text": "Lorens kuchi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "group": 1,
+    "question": "Magnit maydon induksiyasi formulasini ko‘rsating",
+    "options": [
+      {
+        "text": "B = M/P",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "group": 1,
+    "question": "Induktivlik  birligini aniqlang",
+    "options": [
+      {
+        "text": "Gn",
+        "isCorrect": true
+      },
+      {
+        "text": "Tl",
+        "isCorrect": false
+      },
+      {
+        "text": "Vb",
+        "isCorrect": false
+      },
+      {
+        "text": "А м2",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "group": 1,
+    "question": "Foton bu – …",
+    "options": [
+      {
+        "text": "yorug'lik kvantlari oqimi",
+        "isCorrect": true
+      },
+      {
+        "text": "yorug'lik energiyasi oqimi",
+        "isCorrect": false
+      },
+      {
+        "text": "protonlar oqimi",
+        "isCorrect": false
+      },
+      {
+        "text": "yorug'lik elektronlari oqimi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "group": 1,
+    "question": "Fotoeffekt bu.....",
+    "options": [
+      {
+        "text": "nur ta'sirida elektronlarning moddadan chiqarilishi",
+        "isCorrect": true
+      },
+      {
+        "text": "ikki kogerent to'lqinlarni qo'shilish natijasida to'lqinlarni kuchaytirish",
+        "isCorrect": false
+      },
+      {
+        "text": "Yorug’lik to’lqinlarining to’siqlardan aylanib o’tishi",
+        "isCorrect": false
+      },
+      {
+        "text": "Yorug’lik to’lqin uzunligining tezlikka bog’liqligi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "group": 1,
+    "question": "Absolyut qora jisming nur yutish qobiliyati",
+    "options": [
+      {
+        "text": "Birga teng",
+        "isCorrect": true
+      },
+      {
+        "text": "Birdan kichik",
+        "isCorrect": false
+      },
+      {
+        "text": "Birdan kata",
+        "isCorrect": false
+      },
+      {
+        "text": "Nolga teng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "group": 1,
+    "question": "Atom yadrosi qanday zarralardan iborat?",
+    "options": [
+      {
+        "text": "proton va neytronlardan iborat",
+        "isCorrect": true
+      },
+      {
+        "text": "elektronlar va protonlardan iborat",
+        "isCorrect": false
+      },
+      {
+        "text": "elektronlardan iborat",
+        "isCorrect": false
+      },
+      {
+        "text": "elektronlar va neytronlardan iborat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "group": 1,
+    "question": "Atom yadrosining zaryadi",
+    "options": [
+      {
+        "text": "yadrodagi barcha protonlarning zaryadiga teng",
+        "isCorrect": true
+      },
+      {
+        "text": "yadrodagi barcha nuklonlarning zaryadiga teng",
+        "isCorrect": false
+      },
+      {
+        "text": "yadrodagi neytronlarning zaryadiga teng",
+        "isCorrect": false
+      },
+      {
+        "text": "yadrodagi elektronlar zaryadiga teng",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "group": 1,
+    "question": "Yadroning massa soni A bu…",
+    "options": [
+      {
+        "text": "yadro tarkibidagi barcha nuklonlarning soni",
+        "isCorrect": true
+      },
+      {
+        "text": "yadro tarkibidagi barcha protonlarning soni",
+        "isCorrect": false
+      },
+      {
+        "text": "yadrodagi barcha elektronlar soni",
+        "isCorrect": false
+      },
+      {
+        "text": "yadrodagi barcha elektronlar va protonlar soni",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "group": 1,
+    "question": "Qanday zarrachalar nuklonlar dеyiladi?",
+    "options": [
+      {
+        "text": "Yadro tarkibidagi proton va nеytronlar nuklonlar dеyiladi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yadro tarkibidagi protonlar nuklonlar dеyiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yadro tarkibidagi nеytronlar nuklonlar dеyiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elеmеntar zarralar nuklonlar dеyiladi.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "group": 1,
+    "question": "Yorug’lik to’lqinlarining biror to’siq yoki kichik  tirqishlaridan o’tayotganida o’z\nyo’nalishini o’zgarishiga ....... dеb ataladi",
+    "options": [
+      {
+        "text": "yorug’likning difraktsiyasi …",
+        "isCorrect": true
+      },
+      {
+        "text": "Yorug’lik intеrfеrеntsiyasi …",
+        "isCorrect": false
+      },
+      {
+        "text": "Yorug’likning qutblanishi …",
+        "isCorrect": false
+      },
+      {
+        "text": "Yorug’likning dispеrsiyasi …",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "group": 1,
+    "question": "Yorug'likning qutblanishi dеb ... aytiladi.",
+    "options": [
+      {
+        "text": "biror  usul bilan elеktr vеktori tеbranishini tartibga solishga …",
+        "isCorrect": true
+      },
+      {
+        "text": "nomonoxromatik nurlarning tarkibiy qismlarga ajralishiga",
+        "isCorrect": false
+      },
+      {
+        "text": "biror  tusiqdan o’tayotganda o’z yo’nalishini o’zgartirishga",
+        "isCorrect": false
+      },
+      {
+        "text": "ikkita  to’lqinning  biror nuqtaga kеlib tushganida bir-birini  kuchaytirishi yoki susaytirishiga ..",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "group": 1,
+    "question": "Yorug'likning korpuskulyar ta'limotini ... yaratgan",
+    "options": [
+      {
+        "text": "Nyuton",
+        "isCorrect": true
+      },
+      {
+        "text": "Frеnеl",
+        "isCorrect": false
+      },
+      {
+        "text": "Yung.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gyugens",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "group": 1,
+    "question": "Magnit induksiya oqimini ifodalovchi formulalarni toping",
+    "options": [
+      {
+        "text": "Ф=BSсоsα",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "group": 1,
+    "question": "Berilgan ifodalardan induksiya qonuni ifodasini ko‘rsating",
+    "options": [
+      {
+        "text": "з = - (f/t)",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "group": 1,
+    "question": "Amper kuchi formulasini ko'rsating",
+    "options": [
+      {
+        "text": "F = BIλsina",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "group": 1,
+    "question": "Bio – Savar –Laplas qonuni ko'rsating",
+    "options": [
+      {
+        "text": "B = (mm0/4p) * (Iλsina / r^2)",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "group": 1,
+    "question": "Parallel toklarning o‘zaro ta’sir kuchi formulasi",
+    "options": [
+      {
+        "text": "F=(mm0I1I2/2pd) λ",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "group": 1,
+    "question": "Lorens kuchi formulasini ko‘rsating",
+    "options": [
+      {
+        "text": "F = qvB sin a",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "group": 1,
+    "question": "Yopiq konturda xosil bo‘lgan induksion EYuK formulasini ko‘rsating",
+    "options": [
+      {
+        "text": "Ei = -(△f/△t)",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "group": 1,
+    "question": "O‘zinduksiya EYuK formulasini ko‘rsating",
+    "options": [
+      {
+        "text": "E = -L(di/at)",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "group": 1,
+    "question": "Induktivlik formulasini ko‘rsating",
+    "options": [
+      {
+        "text": "L = F/I",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "group": 1,
+    "question": "Magnit maydon enyergiyasi formulasini ko‘rsating",
+    "options": [
+      {
+        "text": "W = LI^2/2",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "group": 1,
+    "question": "O‘zgaruvchan tok zanjiridagi induktiv qarshilik formulasini ko‘rsating",
+    "options": [
+      {
+        "text": "R = wL",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "group": 1,
+    "question": "O‘zgaruvchan tok zanjiridagi sig‘im qarshilik formulasini ko‘rsating",
+    "options": [
+      {
+        "text": "Rc = 1/wc",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "group": 1,
+    "question": "Elektromagnit to‘lqinlarni tarqalish tezligi formulasini ko‘rsating",
+    "options": [
+      {
+        "text": "v=c/✓em",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "group": 1,
+    "question": "Intefyerensiya maksimum  hosil bo‘lishining shartini toping",
+    "options": [
+      {
+        "text": "δ = 2κλ/2",
+        "isCorrect": true
+      },
+      {
+        "text": "δ = λ/2",
+        "isCorrect": false
+      },
+      {
+        "text": "δ = κλ/2",
+        "isCorrect": false
+      },
+      {
+        "text": "δ = (2κ +1)λ/2",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "group": 1,
+    "question": "Intefyerensiya minimum hosil bo‘lishining  shartini toping",
+    "options": [
+      {
+        "text": "δ = (2κ +1)λ/2",
+        "isCorrect": true
+      },
+      {
+        "text": "δ = (2κ -1)λ/2",
+        "isCorrect": false
+      },
+      {
+        "text": "δ = κλ",
+        "isCorrect": false
+      },
+      {
+        "text": "δ = κλ/2",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "group": 1,
+    "question": "Sinish qonunini ifodasini ko‘sating",
+    "options": [
+      {
+        "text": "sin i1/sin i2 = n2/n1",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "group": 1,
+    "question": "Konturning magnit momenti ifodasini ko‘rsating",
+    "options": [
+      {
+        "text": "Pm = IS",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "group": 1,
+    "question": "Magnit maydon induksiyasining \"SI\" dagi  birligini ko‘rsating",
+    "options": [
+      {
+        "text": "1Tl = N / A * m",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "group": 1,
+    "question": "Magnit maydon doimiysining son qiymatini aniqlang",
+    "options": [
+      {
+        "text": "4p*10^-7 gn/m",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "group": 1,
+    "question": "O‘zgaruvchan tok zanjiri uchun to’la qarshilik formulasini ko‘rsating",
+    "options": [
+      {
+        "text": "Z = ✓R^2+(wl-1/c2)^2",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "group": 1,
+    "question": "O‘zgaruvchan tok zanjirida quvvat formulasini ko‘rsating",
+    "options": [
+      {
+        "text": "P = IeffUeff cos ∲",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "group": 1,
+    "question": "Hodisaning qaysi biri yorug'lik dispersiyasi bilan izohlanadi?",
+    "options": [
+      {
+        "text": "Kamalak xosil bo’lishi",
+        "isCorrect": true
+      },
+      {
+        "text": "Inju yuzasida nurlarni jilvalanishi",
+        "isCorrect": false
+      },
+      {
+        "text": "Sovun pufaklarida ranglarning turlanishi",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarim soyalar hosil bo’lishi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "group": 1,
+    "question": "Nur vakuumdan shishaga   54  gradus   burchak ostida tushib 32 gradus sinish burchagi   ostida sindi. Shu shishaning sindirish ko'rsatkichi  Shu shishaning sindirish ko'rsatkichi  qancha?",
+    "options": [
+      {
+        "text": "1.54",
+        "isCorrect": true
+      },
+      {
+        "text": "1.23",
+        "isCorrect": false
+      },
+      {
+        "text": "1.43",
+        "isCorrect": false
+      },
+      {
+        "text": "1.63",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "group": 1,
+    "question": "Prеdmеdning tasviri fokus masofasi 10 sm bo'lgan qavariq linzadan 20 sm uzoqlikda hosil bo'lishi uchun prеdmеt linzadan qanday uzoqlikda joylashtirishi kеrak.",
+    "options": [
+      {
+        "text": "20",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "group": 1,
+    "question": "Fokus masofasi 5 sm bo'lgan linzaning optik kuchi qanday?",
+    "options": [
+      {
+        "text": "20",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "group": 1,
+    "question": "Stеfan-Boltsman formulasini ko’rsating.",
+    "options": [
+      {
+        "text": "W = ∂T^4",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "group": 2,
+    "question": "Tebranishlar amplitudasi deb,…",
+    "options": [
+      {
+        "text": "Muvozanat vaziyatdan eng katta siljish moduliga aytiladi",
+        "isCorrect": true
+      },
+      {
+        "text": "muvozanat vaziyatdan siljish kattaligiga aytiladi",
+        "isCorrect": false
+      },
+      {
+        "text": "bir to'la davr ichida siljish kattaligiga aytiladi",
+        "isCorrect": false
+      },
+      {
+        "text": "vaqt ichidagi siljish kattaligiga aytiladi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "group": 2,
+    "question": "Malyus qonuni ifodasini ko‘rsating.",
+    "options": [
+      {
+        "text": "I = I0 cos2 α.",
+        "isCorrect": true
+      },
+      {
+        "text": "I = I0 cosα",
+        "isCorrect": false
+      },
+      {
+        "text": "I = U cosα",
+        "isCorrect": false
+      },
+      {
+        "text": "I = I0 /cosα",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "group": 2,
+    "question": "Yorug‘lik dispersiyasi deb nimaga aytiladi?",
+    "options": [
+      {
+        "text": "Muhit sindirish ko‘rsatkichining yorug‘lik to‘lqin uzunligiga bog‘liqligiga aytiladi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Har  qanday qizdirilgan modda o‘zidan elektromagnit to‘lqinlar chiqarishiga aytiladi",
+        "isCorrect": false
+      },
+      {
+        "text": "Vaqt birligida nurlanish energiyasiga aytiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "YOrug‘likni moddadan o‘tishda yorug‘lik energiyasining yo‘qotilishiga aytiladi.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "group": 2,
+    "question": "Yorug‘lik dispersiyasida qaysi rang nuri prizmadan o‘tganda eng katta burchakka og‘adi?",
+    "options": [
+      {
+        "text": "binafsha",
+        "isCorrect": true
+      },
+      {
+        "text": "Yashil.",
+        "isCorrect": false
+      },
+      {
+        "text": "Qizil",
+        "isCorrect": false
+      },
+      {
+        "text": "Ko‘k",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "group": 2,
+    "question": "Ximiyaviy element atomi nimadan tuzilgan?",
+    "options": [
+      {
+        "text": "Yadro va elektron",
+        "isCorrect": true
+      },
+      {
+        "text": "Neytron, nuklon",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektron.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yadro, praton",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "group": 2,
+    "question": "Nima uchun atom neytral?",
+    "options": [
+      {
+        "text": "Undagi elektronlar soni yadrodagi protonlar soniga teng",
+        "isCorrect": true
+      },
+      {
+        "text": "Undagi zarrachalarlar soni yadrodagi protonlar soniga teng",
+        "isCorrect": false
+      },
+      {
+        "text": "Undagi elektronlar soni yadrodagi neytronlar soniga teng",
+        "isCorrect": false
+      },
+      {
+        "text": "Undagi protonlar soni yadrodagi nuklonlar soniga teng.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "group": 2,
+    "question": "Yadroning massa soni nima?",
+    "options": [
+      {
+        "text": "Proton va neytronlar yig‘indisi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Elektron va protonlar yig‘indisi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yadro va neytronlar yig‘indisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Atom va yadrolar yig‘indisi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "group": 2,
+    "question": "Yadroning bog‘lanish energiyasi ifodasini ko‘rsating.",
+    "options": [
+      {
+        "text": "E = ∆mc2 = [ Z mp + ( A – Z) mn – mya ].",
+        "isCorrect": true
+      },
+      {
+        "text": "E = ∆mc = [ Z mn + ( A – Z) mz – mp ].",
+        "isCorrect": false
+      },
+      {
+        "text": "E = ∆m2 = [  mp + ( A – N) mn – mya ].",
+        "isCorrect": false
+      },
+      {
+        "text": "E  = [ Z mp - ( A + Z) mn – mya ].",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "group": 2,
+    "question": "Protonni birinchi bo‘lib kim kashf qilgan?",
+    "options": [
+      {
+        "text": "Rezerford",
+        "isCorrect": true
+      },
+      {
+        "text": "Tomson",
+        "isCorrect": false
+      },
+      {
+        "text": "CHeedvik.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kyuri.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "group": 2,
+    "question": "Solishtirma bog‘lanish energiyasi deb nimaga aytiladi?",
+    "options": [
+      {
+        "text": "Har bir nuklonga to‘g‘ri keluvchi bog‘lanish energiyasiga aytiladi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yadroni tashkil qilgan nuklonlarni bir – biridan ajratib yuborish uchun zarur bo‘lgan energiyaga aytiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Har bir elektronga to‘g‘ri keluvchi bog‘lanish energiyasiga aytiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yadroni tashkil qilgan nuklonlarni bir – birini ushlab  turish uchun zarur bo‘lgan energiyaga aytiladi.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "group": 2,
+    "question": "Solishtirma bog‘lanish energiyasi ifodasini toping.",
+    "options": [
+      {
+        "text": "Esol = Eb / A",
+        "isCorrect": true
+      },
+      {
+        "text": "Esol = [ Z mp + ( A – Z) mn – mya ].",
+        "isCorrect": false
+      },
+      {
+        "text": "Esol = mc2",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "group": 2,
+    "question": "Radiaktivlikni kim kashf qilgan?",
+    "options": [
+      {
+        "text": "A.Bekkerel",
+        "isCorrect": true
+      },
+      {
+        "text": "J.Kyuri",
+        "isCorrect": false
+      },
+      {
+        "text": "Rezerford",
+        "isCorrect": false
+      },
+      {
+        "text": "Frenkel",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "group": 2,
+    "question": "Radioaktivlik deb nimaga aytiladi?",
+    "options": [
+      {
+        "text": "Beqaror ximiyaviy element izotoplarining elementar zarralar chiqarib o‘z – o‘zidan boshqa element izotopiga aylanishiga aytiladi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Beqaror ximiyaviy element izotoplarining elementar zarralar yutib o‘z – o‘zidan boshqa element izotopiga aylanishiga aytiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ma’lum bir yuzaga tushayotgan nuglanish quvvati bilan o‘lchanadigan kattalikka aytiladi",
+        "isCorrect": false
+      },
+      {
+        "text": "Manba sirtining yuza birligidan ma’lum yo‘nalishda yuzga normal ravishda chiqayotgan yorug‘lik kuchiga son jihatdan teng bo‘lgan kattalikka aytiladi.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "group": 2,
+    "question": "α – nurlanishda ….",
+    "options": [
+      {
+        "text": "Yadro massa soni to‘rttaga, zaryadi ikkitaga kamayadi",
+        "isCorrect": true
+      },
+      {
+        "text": "Yadro massasi o‘zgarmay qoladi, shuning uchun yadro massa soni o‘zgarmay qolib, uning zaryadi bitta oshadi",
+        "isCorrect": false
+      },
+      {
+        "text": "Yadro massasi ikkitaga, zaryadi to‘rttaga kamayadi",
+        "isCorrect": false
+      },
+      {
+        "text": "Yadro massasi soni va  zaryadi o‘zgarmay qoladi.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "group": 2,
+    "question": "β – nurlanishda –",
+    "options": [
+      {
+        "text": "Yadro massasi o‘zgarmay qoladi, shuning uchun yadro massa soni o‘zgarmay qolib, uning zaryadi bitta oshadi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yadro massasi ikkitaga, zaryadi to‘rttaga kamayadi",
+        "isCorrect": false
+      },
+      {
+        "text": "Yadro massa soni to‘rttaga, zaryadi ikkitaga kamayadi",
+        "isCorrect": false
+      },
+      {
+        "text": "Yadro massasi soni va  zaryadi o‘zgarmay qoladi.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "group": 2,
+    "question": "γ – nurlanishda –",
+    "options": [
+      {
+        "text": "Yadro massasi soni va  zaryadi o‘zgarmay qoladi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yadro massasi o‘zgarmay qoladi, shuning uchun yadro massa soni o‘zgarmay qolib, uning zaryadi bitta oshadi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yadro massa soni to‘rttaga, zaryadi ikkitaga kamayadi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yadro massasi ikkitaga, zaryadi to‘rttaga kamayadi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "group": 2,
+    "question": "β – nurlar bu ...",
+    "options": [
+      {
+        "text": "Elektronlar oqimi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Elektromagnit to‘lqinlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Geliy yadrosi oqimi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Neytronlar oqimi.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "group": 2,
+    "question": "Radioaktiv  atom nurlanayotgan α – nurlar ...",
+    "options": [
+      {
+        "text": "Geliy yadrosi oqimi",
+        "isCorrect": true
+      },
+      {
+        "text": "Elektronlar oqimi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektromagnit to‘lqinlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Neytronlar oqimi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "group": 2,
+    "question": "Yadro reaksiya energiyasidan nimada foydalanadi?",
+    "options": [
+      {
+        "text": "Atom elektrostansiyalarda",
+        "isCorrect": true
+      },
+      {
+        "text": "Ximiyaviy reaksiyalarda",
+        "isCorrect": false
+      },
+      {
+        "text": "Gidroelektrostansiyalarda",
+        "isCorrect": false
+      },
+      {
+        "text": "to‘g‘ri javob yo‘q",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "group": 2,
+    "question": "Absolyut qora jismning nur yutish qobilyati nimaga teng.",
+    "options": [
+      {
+        "text": "birga teng  /A=1/",
+        "isCorrect": true
+      },
+      {
+        "text": "birdan kichik /A<1/",
+        "isCorrect": false
+      },
+      {
+        "text": "birdan katta /A>1/",
+        "isCorrect": false
+      },
+      {
+        "text": "nolga teng (A=O)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "group": 2,
+    "question": "Quyosh gardishining haroratini qaysi qonun orqali  aniqlash mumkin",
+    "options": [
+      {
+        "text": "Vin",
+        "isCorrect": true
+      },
+      {
+        "text": "Stefan-Bolsman",
+        "isCorrect": false
+      },
+      {
+        "text": "Kirxgof",
+        "isCorrect": false
+      },
+      {
+        "text": "Plank",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "group": 2,
+    "question": "Ushbu ta’riflardan qaysi biri Kirxgof qonuni ifodalaydi",
+    "options": [
+      {
+        "text": "jismning  nur  chiqarish  qobilyatini  nur yutish qobilyatiga nisbati \njismning tabiatiga boqliq bo‘lmagan funksiya  bo‘lib,bu funksiya \nfaqat chastota bilan haroratga bog‘liq.",
+        "isCorrect": true
+      },
+      {
+        "text": "kulrang jismning nur yutish qobilyati birdan kichik",
+        "isCorrect": false
+      },
+      {
+        "text": "kulrang jismning nur yutish qobilyati birdan kichik.",
+        "isCorrect": false
+      },
+      {
+        "text": "jismning  nur  chiqarish  qobilyatini  nur yutish qobilyatiga nisbati",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "group": 2,
+    "question": "Aylanma tokning markazidagi magnit maydon kuchlanganlik formulasi",
+    "options": [
+      {
+        "text": "H = 2I /4R",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "group": 2,
+    "question": "Fotoeffekt ko‘k nurda  kuzatilmasa, aynan  shu  fotoelementda \nfotoeffekt sariq va qizil nurlarda kuzatiladimi.",
+    "options": [
+      {
+        "text": "kuzatilmaydi",
+        "isCorrect": true
+      },
+      {
+        "text": "sariq nurda kuzatiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "kuzatiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "qizil nurda kuzatiladi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "group": 2,
+    "question": "Fotoeffektda metall sirtdan chiqayotgan elektronlar soni uning sirtiga tushayotgan yorug‘lik oqimiga qanday bog‘liq.",
+    "options": [
+      {
+        "text": "yorug‘lik oqimiga to‘g‘ri proporsional",
+        "isCorrect": true
+      },
+      {
+        "text": "bog‘liq emas",
+        "isCorrect": false
+      },
+      {
+        "text": "yorug‘lik oqimiga teskar  proporsional",
+        "isCorrect": false
+      },
+      {
+        "text": "yorug‘lik to‘lqinning amplitudasiga to‘g‘ri proporsional",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "group": 2,
+    "question": "Fotoelement ulangan zanjirda hosil bo‘lgan to‘yinish toki yorug‘lik \noqimiga bog‘liqmi",
+    "options": [
+      {
+        "text": "yorug‘lik oqimiga to‘g‘ri proporsional",
+        "isCorrect": true
+      },
+      {
+        "text": "bog‘liq emas",
+        "isCorrect": false
+      },
+      {
+        "text": "yorug‘lik oqimiga teskari proporsional",
+        "isCorrect": false
+      },
+      {
+        "text": "yorug‘lik to‘lqinning chastotasiga proporsional",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "group": 2,
+    "question": "Yorug‘lik ta’sirida metall sirtidan chiqayotgan elektronlarning kinetik energiyasi yorug‘likning qaysi fizik  kattaligiga boglik.",
+    "options": [
+      {
+        "text": "chastotasiga",
+        "isCorrect": true
+      },
+      {
+        "text": "fazasiga",
+        "isCorrect": false
+      },
+      {
+        "text": "tezligiga",
+        "isCorrect": false
+      },
+      {
+        "text": "Amplitudasiga",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "group": 2,
+    "question": "Foton nima.",
+    "options": [
+      {
+        "text": "atomlar nurlanish energiyasining kvanti",
+        "isCorrect": true
+      },
+      {
+        "text": "atom tarkibiga kirgan zaryadli zarra",
+        "isCorrect": false
+      },
+      {
+        "text": "atom tarkibiga kirgan neytral zarra",
+        "isCorrect": false
+      },
+      {
+        "text": "yadro tarkibiga kirgan zaryadli zarra",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "group": 2,
+    "question": "Quyida  ketirilgan  qaysi  formula  orqali  fotonning massasini \naniqlash mumkin.",
+    "options": [
+      {
+        "text": "m = nw/c^2",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "group": 2,
+    "question": "Foton impulsini aniqlash ifodasini ko‘rsating.",
+    "options": [
+      {
+        "text": "P = hv/c",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "group": 2,
+    "question": "Borning II-chi  postulatiga oid ifodani ko‘rsating.",
+    "options": [
+      {
+        "text": "hv = En - Em",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "group": 2,
+    "question": "De-Broyl to‘lqin uzunligi formulasini ko‘rsating.",
+    "options": [
+      {
+        "text": "λ = h / P",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "group": 2,
+    "question": "Mazkur n, m, S, l kvant sonlari orasida qaysi biri orbital kvant soni deyiladi?",
+    "options": [
+      {
+        "text": "λ",
+        "isCorrect": true
+      },
+      {
+        "text": "m",
+        "isCorrect": false
+      },
+      {
+        "text": "n",
+        "isCorrect": false
+      },
+      {
+        "text": "S",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "group": 2,
+    "question": "Yadroning massa soni deb qanday songa aytiladi?",
+    "options": [
+      {
+        "text": "yadrodagi barcha nuklonlar soni yadroning massa soni /A/ deyiladi.",
+        "isCorrect": true
+      },
+      {
+        "text": "yarodagi barcha protonlar soni yadroning massa soni /A/ deyiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "yadrodagi barcha elektronlar soni yadroning massa soni /A/ deyiladi",
+        "isCorrect": false
+      },
+      {
+        "text": "yadrodagi barcha neytronlarlar soni yadroning massa soni /A/ deyiladi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "group": 2,
+    "question": "Qanday yadrolar izotoplar deyiladi?",
+    "options": [
+      {
+        "text": "protonlarning soni bir xil, lekin neytronlarning soni har xil bo‘lgan yadrolarga iztoplar deyiladi",
+        "isCorrect": true
+      },
+      {
+        "text": "nuklonlar soni bir xil, lekin proton va neytronlarining soni har xil bo‘lgan yadrolar izotoplar deyiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "neytronlarning soni bir xil, lekin protonlarning soni har xil bo‘lgan yadrolarga izotoplar deyiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "fakat protonlardan tashkil topgan yadrolar izotoplar deyiladi.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "group": 2,
+    "question": "Qanday reaksiya zanjir reaksiya deyiladi?",
+    "options": [
+      {
+        "text": "ma’lum sharoitda bir boshlangandan so‘ng o‘z-o‘zidan davom eta oladigan reaksiya zanjir reaksiya deyiladi.",
+        "isCorrect": true
+      },
+      {
+        "text": "neytronlarning yadrolar bilan to‘qnashuvida hosil bo‘ladigan reaksiya zanjir reaksiya deyiladi",
+        "isCorrect": false
+      },
+      {
+        "text": "yadroning yadro bilan bo‘lib utadigan to‘qnashuvdagi reaksiya zanjir reaksiya deyiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "elementar zarrachalar o‘rtasida bo‘lib o‘tadigan reaksiya zanjir reaksiya deyiladi.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "group": 2,
+    "question": "Vinning siljish konuniga oid formulani kursating.",
+    "options": [
+      {
+        "text": "λT = b ",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "group": 2,
+    "question": "Ushbu ta’riflardan qaysi biri Kirxgof qonuni ifodalaydi.",
+    "options": [
+      {
+        "text": "Jismning  nur  chiqarish  qobilyatini  nur yutish qobilyatiga nisbati    jismning tabiatiga boqliq bo‘lmagan funksiya  bo‘lib,bu funksiya    faqat chastota bilan haroratga bog‘liq.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kulrang jismning nur yutish qobilyati birdan kichik.",
+        "isCorrect": false
+      },
+      {
+        "text": "Absolyut qora jismning nur yutish qobilyati birga teng.",
+        "isCorrect": false
+      },
+      {
+        "text": "Jismning nur chiqarish qobiliyatini xarakterlaydi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "group": 2,
+    "question": "5,5mkA necha Amperga teng ?",
+    "options": [
+      {
+        "text": "5,5*10-6A",
+        "isCorrect": true
+      },
+      {
+        "text": "5,6*10 A",
+        "isCorrect": false
+      },
+      {
+        "text": "550A",
+        "isCorrect": false
+      },
+      {
+        "text": "55000A",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "group": 2,
+    "question": "Tokning quvvat formulasini toping ?",
+    "options": [
+      {
+        "text": "P=U*I",
+        "isCorrect": true
+      },
+      {
+        "text": "I=U/R",
+        "isCorrect": false
+      },
+      {
+        "text": "I=q/t",
+        "isCorrect": false
+      },
+      {
+        "text": "A=F*S",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "group": 2,
+    "question": "1Megavatt(MW) qancha vattga teng?",
+    "options": [
+      {
+        "text": "1000000Wt",
+        "isCorrect": true
+      },
+      {
+        "text": "10000Wt",
+        "isCorrect": false
+      },
+      {
+        "text": "1000Wt",
+        "isCorrect": false
+      },
+      {
+        "text": "10Wt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "group": 2,
+    "question": "Eruvchan saqlagich 5A tok o’tishiga mo’ljallangan .220Vli tarmoqda ulangan iste’molchilarning umumiy qarshiligi qancha bo’lishi kerak (om)?",
+    "options": [
+      {
+        "text": "44",
+        "isCorrect": true
+      },
+      {
+        "text": "34",
+        "isCorrect": false
+      },
+      {
+        "text": "54",
+        "isCorrect": false
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "group": 2,
+    "question": "Elektr tokining bajargan ishini shu ishni bajarish uchun sarflangan vaqtga nisbati bilan o’lchanadigan kattalik …deyiladi .",
+    "options": [
+      {
+        "text": "Quvvat",
+        "isCorrect": true
+      },
+      {
+        "text": "Elekrt toki",
+        "isCorrect": false
+      },
+      {
+        "text": "Tok kuchi",
+        "isCorrect": false
+      },
+      {
+        "text": "Energiya",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "group": 2,
+    "question": "Q=I2*R*t  ………     formulasi. Qanday formula ?",
+    "options": [
+      {
+        "text": "Joul-lens qonuni",
+        "isCorrect": true
+      },
+      {
+        "text": "Amper qonuni",
+        "isCorrect": false
+      },
+      {
+        "text": "Kulon qonunin",
+        "isCorrect": false
+      },
+      {
+        "text": "Lens qonuni",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "group": 2,
+    "question": "To'kning ishida 1Joul nimaga teng",
+    "options": [
+      {
+        "text": "1A*1V*1s",
+        "isCorrect": true
+      },
+      {
+        "text": "1A*1 s",
+        "isCorrect": false
+      },
+      {
+        "text": "1V*1s",
+        "isCorrect": false
+      },
+      {
+        "text": "1V*1A",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "group": 2,
+    "question": "Induktivligi 2mG bo’lgan galtakdan 5A tok o’tmoqda. Tokning hosilqilgan magnit maydon energiyasi qanchaga teng ?",
+    "options": [
+      {
+        "text": "25mJ",
+        "isCorrect": true
+      },
+      {
+        "text": "10mJ",
+        "isCorrect": false
+      },
+      {
+        "text": "50mJ",
+        "isCorrect": false
+      },
+      {
+        "text": "25J",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "group": 2,
+    "question": "Elektr toki deb nimaga aytiladi?",
+    "options": [
+      {
+        "text": "Zaryadli zarralarning tartibli harakatiga  aytiladi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Elektr to'kining tartibli xarakatiga aytiladi",
+        "isCorrect": false
+      },
+      {
+        "text": "Zaryadlarning tartibsiz xarakatiga aytiladi",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektr maydonning ko'chishiga aytiladi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "group": 2,
+    "question": "Tok kuchini CI sistemada birligini ko‘rsating.",
+    "options": [
+      {
+        "text": "Amper",
+        "isCorrect": true
+      },
+      {
+        "text": "Joul",
+        "isCorrect": false
+      },
+      {
+        "text": "Nyuton",
+        "isCorrect": false
+      },
+      {
+        "text": "kg",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "group": 2,
+    "question": "Zanjirning bir qismi uchun Om qonunini ta’rifini toping.",
+    "options": [
+      {
+        "text": "O‘tkazgichning bir birlik ko‘ndalang kesimi yuzidan o‘tgan tokning kuchiga miqdor jihatdan teng bo‘lgan kattalik.",
+        "isCorrect": true
+      },
+      {
+        "text": "Zaryadli zarralarning batartib xarakati",
+        "isCorrect": false
+      },
+      {
+        "text": "O‘tkazgichdan tok kuchi uning uchlaridagi kuchlanishga to‘g‘ri proporsional va o‘tkazgichning qarshiligiga teskari proporsional",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektr to'kining tartibli xarakatiga aytiladi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "group": 2,
+    "question": "Zanjirning bir qismi uchun Om ifodasini ko‘rsating",
+    "options": [
+      {
+        "text": "I = U / R",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "group": 3,
+    "question": "O‘tkazgichlarni parallel ulashda umumiy qarshilik ifodasini ko‘rsating.",
+    "options": [
+      {
+        "text": "1/R = 1/R1 + 1/R2",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "group": 3,
+    "question": "O‘tkazgichlarni ketma–ket ulashda umumiy qarshilikni topish ifodasini toping.",
+    "options": [
+      {
+        "text": "R = R1 + R2",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "group": 3,
+    "question": "Qarshilikni CI sistemada o‘lchov birligini ko‘rsating.",
+    "options": [
+      {
+        "text": "Om",
+        "isCorrect": true
+      },
+      {
+        "text": "Nyuton",
+        "isCorrect": false
+      },
+      {
+        "text": "Joul",
+        "isCorrect": false
+      },
+      {
+        "text": "Joul",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "group": 3,
+    "question": "Ampermetr elektr zanjiriga qanday ulanadi?",
+    "options": [
+      {
+        "text": "Ketma–ket",
+        "isCorrect": true
+      },
+      {
+        "text": "Parallel, ketma–ket",
+        "isCorrect": false
+      },
+      {
+        "text": "Parallel",
+        "isCorrect": false
+      },
+      {
+        "text": "ulanmaydi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "group": 3,
+    "question": "Voltmetr elektr zanjiriga qanday ulanadi?",
+    "options": [
+      {
+        "text": "Parallel",
+        "isCorrect": true
+      },
+      {
+        "text": "Ketma–ket",
+        "isCorrect": false
+      },
+      {
+        "text": "Parallel, ketma–ket",
+        "isCorrect": false
+      },
+      {
+        "text": "ulanmaydi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "group": 3,
+    "question": "Elektr toki quvvati formulasini ko‘rsating.",
+    "options": [
+      {
+        "text": "P = A/t",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "group": 3,
+    "question": "Tokning ishi ifodasini ko‘rsating.",
+    "options": [
+      {
+        "text": "A = iUt",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "group": 3,
+    "question": "To‘la zanjir uchun Om qonuni ta’rifini toping",
+    "options": [
+      {
+        "text": "Yopiq zanjirda o‘tayotgan tokning kuchi manbaning elektr yurituvchi kuchiga to‘g‘ri proporsional va zanjirning umumiy qarshiligiga teskari proporsionaldir.",
+        "isCorrect": true
+      },
+      {
+        "text": "YOpiq zanjirda o‘tayotgan tokning kuchi zanjirning to‘la qarshiligiga to‘g‘ri proporsional  manbaning elektr yurituvchi kuchiga teskari proporsio-naldir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektr zanjirining tugunida uchrashgan toklarning algebraik yig‘indisi nolga teng.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarmoqlangan elektr zanjirining ixtiyoriy yopiq konturi  qismlaridagi tok kuchlarini  mos ravishda qarshiliklariga ko‘paytmalarining algebraik yig‘indisi shu konturdagi barcha elektr yurituvchi kuchlarning algebraik yig‘indisiga teng.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "group": 3,
+    "question": "Kirxgofning 1- qonuni ta’rifi",
+    "options": [
+      {
+        "text": "Elektr zanjirining tugunida uchrashgan toklarning algebraik yig‘indisi nolga teng.",
+        "isCorrect": true
+      },
+      {
+        "text": "YOpiq zanjirda o‘tayotgan tokning kuchi manbaning elektr yurituvchi kuchiga to‘g‘ri proporsional va zanjirning to‘la qarshiligiga teskari propor-sionaldir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarmoqlangan elektr zanjirining ixtiyoriy yopiq konturi  qismlaridagi tok kuchlarini  mos ravishda qarshiliklariga ko‘paytmalarining algebraik yig‘indisi shu konturdagi barcha elektr yurituvchi kuchlarning algebraik yig‘indisiga teng.",
+        "isCorrect": false
+      },
+      {
+        "text": "YOpiq zanjirda o‘tayotgan tokning kuchi zanjirning to‘la qarshiligiga to‘g‘ri proporsional  manbaning elektr yurituvchi kuchiga teskari proporsionaldir.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "group": 3,
+    "question": "Kirxgofning 2- qonunita’rifini toping.",
+    "options": [
+      {
+        "text": "Tarmoqlangan elektr zanjirining ixtiyoriy yopiq konturida kuchlanishning tushishining algebraik yig‘indisi shu konturdagi barcha elektr yurituvchi kuchlarning algebraik yig‘indisiga teng.",
+        "isCorrect": true
+      },
+      {
+        "text": "YOpiq zanjirda o‘tayotgan tokning kuchi zanjirning to‘la qarshiligiga to‘g‘ri proporsional  manbaning elektr yurituvchi kuchiga teskari proporsio-naldir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektr zanjirining tugunida uchrashgan toklarning algebraik yig‘indisi nolga teng.",
+        "isCorrect": false
+      },
+      {
+        "text": "YOpiq zanjirda o‘tayotgan tokning kuchi manbaning elektr yurituvchi kuchiga to‘g‘ri proporsional va zanjirning to‘la qarshiligiga teskari propor-sionaldir.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "group": 3,
+    "question": "Manbaning elektr yurituvchi kuchi (EYUK)deb nimaga aytiladi.",
+    "options": [
+      {
+        "text": "Manbaning elektr yurituvchi kuchi deb, bir birlik musbat zaryadni yopiq zanjir bo‘ylab ko‘chirishda tashqi kuchning bajargan ishiga miqdor jixatdan teng bo‘lgan fizik kattalikka aytiladi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Manbaning elektr yurituvchi kuchi deb, bir birlik manfiy zaryadni yopiq zanjir bo‘ylab ko‘chirishda tashqi kuchning bajargan ishiga miqdor jixatdan teng bo‘lgan fizik kattalikka aytiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manbaning elektr yurituvchi kuchi deb, bir birlik musbat zaryadni ochiq zanjir bo‘ylab ko‘chirishda tashqi kuchning bajargan ishiga miqdor jixatdan teng bo‘lgan fizik kattalikka aytiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manbaning elektr yurituvchi kuchi deb, bir birlik musbat zaryadni yopiq zanjir bo‘ylabko‘chirishda ichki kuchning bajargan ishiga miqdor jixatdan teng bo‘lgan fizik kattalikka aytiladi.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "group": 3,
+    "question": "Tokning ishi nima bilan aniqlanadi?",
+    "options": [
+      {
+        "text": "Tokning ishi zaryadlarni elektr maydonida ko‘chirishda bajargan ish bilan aniqlanadi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tokning ishi moddani elektr maydonida ko‘chirishda bajargan ish bilan aniqlanadi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tokning ishi zaryadlarni elektr maydonida ko‘chirishda sarflangan energiya bilan aniqlanadi",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektr zanjirining tugunida uchrashgan toklarning algebraik yig‘indisi nolga teng.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "group": 3,
+    "question": "Tokning quvvatideb nimaga aytiladi?",
+    "options": [
+      {
+        "text": "Tokning quvvati deb, vaqt birligi ichida tokning bajargan ishiga miqdor jixatdan teng fizik kattalikka aytiladi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tokning quvvati deb, vaqt birligi ichida jismning bajargan ishiga miqdor jixatdan teng fizik kattalikka aytiladi",
+        "isCorrect": false
+      },
+      {
+        "text": "Tokning quvvati deb, vaqt birligi ichida tokni ko‘chirishdagi energiyasiga miqdor jixatdan teng fizik kattalikka aytiladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Moddalarning  ximiyaviy  ekvivalentlari ularning  massasiga   proporsional",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "group": 3,
+    "question": "Joul-Lens qonuni tarifining to'g'ri javobini ko'rsating.",
+    "options": [
+      {
+        "text": "O‘tkazgichdan tok o‘tganda ajralib chiqqan issiklik mikdori tok kuchining kvadrati bilan o‘tkazgich qarshiligi va tokning o‘tish vaqtining ko‘paytma-siga teng.",
+        "isCorrect": true
+      },
+      {
+        "text": "O‘tkazgichdan tok o‘tganda ajralib chiqqan energiya mikdori tok kuchining kvadrati bilan o‘tkazgich qarshiligi va tokning o‘tish vaqtining ko‘paytmasiga teng.",
+        "isCorrect": false
+      },
+      {
+        "text": "O‘tkazgichdan tok o‘tganda ajralib chiqqan issiklik mikdori tok kuchi  bilan o‘tkazgich qarshiligi va tokning o‘tish vaqtining ko‘paytmasiga teng.",
+        "isCorrect": false
+      },
+      {
+        "text": "O‘tkazgichdan tok o‘tganda ajralib chiqqan issiklik mikdori tok kuchining kvadrati bilan o‘tkazgich qarshiligining ko‘paytmasiga teng.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "group": 3,
+    "question": "Faradeyni elektroliz 1- qonuni formulasini  toping.",
+    "options": [
+      {
+        "text": "m=kq",
+        "isCorrect": true
+      },
+      {
+        "text": "I=QRt",
+        "isCorrect": false
+      },
+      {
+        "text": "M=kt",
+        "isCorrect": false
+      },
+      {
+        "text": "m=It",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "group": 3,
+    "question": "Faradeyni elektroliz 2 - qonuni tarifini toping.",
+    "options": [
+      {
+        "text": "Moddalarning  elektroximiyaviy  ekvivalentlari ularning  ximiyaviy  ekvivalentlariga proporsional .",
+        "isCorrect": true
+      },
+      {
+        "text": "Elektroliz vaqtida   elektrodlarda ajralgan moddaning  massasi    tokning kuchiga  va uning elektrolitdan   o‘tish vaqtiga to‘g‘ri proporsional",
+        "isCorrect": false
+      },
+      {
+        "text": "Moddalarning  ximiyaviy  ekvivalentlari ularning  massasiga   proporsional .",
+        "isCorrect": false
+      },
+      {
+        "text": "O‘tkazgichdan tok o‘tganda ajralib chiqqan issiklik mikdori tok kuchi  bilan o‘tkazgich qarshiligi va tokning o‘tish vaqtining ko‘paytmasiga teng.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "group": 3,
+    "question": "Metallarda elektr toki qanday elektr zaryadlarning tartibli harakati tufayli hosil bo‘ladi.",
+    "options": [
+      {
+        "text": "Erkin elektronlar",
+        "isCorrect": true
+      },
+      {
+        "text": "Elektron va musbat ionlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Manfiy va musbat ionlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Manfiy  ion va elektronlar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "group": 3,
+    "question": "Gazlarda elektr toki qanday elektr zaryadlarning tartibli harakati tufayli hosil bo‘ladi.",
+    "options": [
+      {
+        "text": "Musbat va manfiy ionlar, erkin elektronlar",
+        "isCorrect": true
+      },
+      {
+        "text": "Faqat musbat ionlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Faqat elektronlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Manfiy ionlar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "group": 3,
+    "question": "Suyuqliklarda elektr toki qanday elektr zaryadlarining tartibli xarakati tufayli hosil bo‘ladi",
+    "options": [
+      {
+        "text": "Musbat va manfiy ionlar",
+        "isCorrect": true
+      },
+      {
+        "text": "Atomlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Musbat va manfiy ionlar, erkin elektronlar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "group": 3,
+    "question": "Magnit maydondagi tokli o‘tkazgichga ta’sir qiluvchi kuch qanday kuch.",
+    "options": [
+      {
+        "text": "Amper kuchi",
+        "isCorrect": true
+      },
+      {
+        "text": "Tashqi kuch",
+        "isCorrect": false
+      },
+      {
+        "text": "Lorens kuchi",
+        "isCorrect": false
+      },
+      {
+        "text": "Lens",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "group": 3,
+    "question": "Elektromagnit induksiya qonunini kim kashf qildi",
+    "options": [
+      {
+        "text": "Faradey",
+        "isCorrect": true
+      },
+      {
+        "text": "Laplas",
+        "isCorrect": false
+      },
+      {
+        "text": "Nyuton",
+        "isCorrect": false
+      },
+      {
+        "text": "Amper",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "group": 3,
+    "question": "Induksion tokning yo‘nalishi qaysi qoidaga asosan aniqlanadi",
+    "options": [
+      {
+        "text": "Lens",
+        "isCorrect": true
+      },
+      {
+        "text": "Amper",
+        "isCorrect": false
+      },
+      {
+        "text": "Kulon",
+        "isCorrect": false
+      },
+      {
+        "text": "Faradey",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "group": 3,
+    "question": "SI sistemada magnit  oqimi  birligini  ko‘rsating",
+    "options": [
+      {
+        "text": "Veber",
+        "isCorrect": true
+      },
+      {
+        "text": "Amper",
+        "isCorrect": false
+      },
+      {
+        "text": "Kulon",
+        "isCorrect": false
+      },
+      {
+        "text": "Nyuton",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "group": 3,
+    "question": "Magnit maydon induksiyasini  SI sistemada birligini toping.",
+    "options": [
+      {
+        "text": "Tesla",
+        "isCorrect": true
+      },
+      {
+        "text": "Veber",
+        "isCorrect": false
+      },
+      {
+        "text": "Genri",
+        "isCorrect": false
+      },
+      {
+        "text": "Kulon",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "group": 3,
+    "question": "O‘zgaruvchan tok ta’rifini toping",
+    "options": [
+      {
+        "text": "Vaqt o‘tishi bilan kattalik va yo‘nalish jihatdan o‘zgaradigan tok o‘zgaruvchan tok deyiladi",
+        "isCorrect": true
+      },
+      {
+        "text": "Vaqt o‘tishi bilan davri o‘zgaradigan tok  o‘zgaruvchan tok deyiladi",
+        "isCorrect": false
+      },
+      {
+        "text": "Vaqt o‘tishi bilan qarshiligi o‘zgaradigan tok o‘zgaruvchan tok deyiladi",
+        "isCorrect": false
+      },
+      {
+        "text": "Vaqt davomida o‘zgaruvchan xar qanday magnit maydon o‘zgaruvchan tok deyilad",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "group": 3,
+    "question": "Gapni davom ettiring ,, Temperatura ortishi bilan yarim o’tkazgichning qarshiligi",
+    "options": [
+      {
+        "text": "kamayadi",
+        "isCorrect": true
+      },
+      {
+        "text": "2marta kamayadi",
+        "isCorrect": false
+      },
+      {
+        "text": "4marta ortadi",
+        "isCorrect": false
+      },
+      {
+        "text": "4marta kamayadi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "group": 3,
+    "question": "Solenoidda o’ramlar soni ikki marta ortirilsa , uning induktivligi qanday o’zgaradi",
+    "options": [
+      {
+        "text": "4martaga ortadi",
+        "isCorrect": true
+      },
+      {
+        "text": "2martaga kamayadi",
+        "isCorrect": false
+      },
+      {
+        "text": "5marta ortadi",
+        "isCorrect": false
+      },
+      {
+        "text": "o’zgarmaydi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "group": 3,
+    "question": "O’zgarmas tok o’tayotgan o’tkazgichda qanday maydon bo’ladi",
+    "options": [
+      {
+        "text": "elektr",
+        "isCorrect": true
+      },
+      {
+        "text": "gravitatsion",
+        "isCorrect": false
+      },
+      {
+        "text": "magnit",
+        "isCorrect": false
+      },
+      {
+        "text": "elektr va gravitatsion maydon",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "group": 3,
+    "question": "Quyidagi ifodalardan qaysi biri tok elementi uchun Bio-Savar-Laplas qonunining ko‘rinishini ifodalaydi",
+    "options": [
+      {
+        "text": "Db = MoM/4p * Idlr / r3",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "group": 3,
+    "question": "Quyidagi ifodalardan qaysi biri magnit induksiya vektorining dS sirt orqali oqimini aniqlaydi?",
+    "options": [
+      {
+        "text": "Ф=BdSсоsα",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "group": 3,
+    "question": "Quyidagi ifodalardan qaysi biri konturning magnit momentini ifodalaydi?",
+    "options": [
+      {
+        "text": "Pm = ish",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "group": 3,
+    "question": "Aylanasimon tokli o‘tkazgich markazidagi magnit maydon induksiya vektori ifodasini ko‘rsating",
+    "options": [
+      {
+        "text": "mm0 = I/2R",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "group": 3,
+    "question": "Quyidagilardan qaysi biri tokli o‘tkazgichni magnit maydonda ko‘chirishda bajarilgan ishni ifodalaydi",
+    "options": [
+      {
+        "text": "dA = IDf",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "group": 3,
+    "question": "Aylana shaklidagi tokli o‘tkazgich markazidagi magnit maydon induksiyasi qanday o‘zgaradi agarda aylana radiusi 4 martta va tok kuchi esa 2 martta ortsa.",
+    "options": [
+      {
+        "text": "2 marta kamayadi",
+        "isCorrect": true
+      },
+      {
+        "text": "2 marta ortadi",
+        "isCorrect": false
+      },
+      {
+        "text": "4 marta ortadi",
+        "isCorrect": false
+      },
+      {
+        "text": "o‘zgarmaydi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "group": 3,
+    "question": "Ikki tirqishdan iborat difraksion panjara uchun qo‘shimcha minimum shartini ko‘rsating",
+    "options": [
+      {
+        "text": "d sin f = +- (2k+1) λ/2",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "group": 3,
+    "question": "O‘zgaruvchan tokning chastotasi nima",
+    "options": [
+      {
+        "text": "Bir vaqt birligida tok tebranishlarining soni",
+        "isCorrect": true
+      },
+      {
+        "text": "Kuchlanish qiymati",
+        "isCorrect": false
+      },
+      {
+        "text": "Tokning yo‘nalishi",
+        "isCorrect": false
+      },
+      {
+        "text": "Tok zichligi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "group": 3,
+    "question": "O‘zbekistonda (va Rossiyada) maishiy elektr tarmog‘ining chastotasi qancha",
+    "options": [
+      {
+        "text": "50 Gts",
+        "isCorrect": true
+      },
+      {
+        "text": "60 Gts",
+        "isCorrect": false
+      },
+      {
+        "text": "100 Gts",
+        "isCorrect": false
+      },
+      {
+        "text": "220 Gts",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "group": 3,
+    "question": "Elektr zanjiridagi rezistorga 220 V kuchlanish va 2 A tok ta sir qiladi. Rezistor qarshiligi qiymatini hisoblang",
+    "options": [
+      {
+        "text": "110 Ом",
+        "isCorrect": true
+      },
+      {
+        "text": "440 Ом",
+        "isCorrect": false
+      },
+      {
+        "text": "220 Ом",
+        "isCorrect": false
+      },
+      {
+        "text": "2 Ом",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "group": 3,
+    "question": "Dispersiya o‘lchovining qanday qiymatida normal dispersiya kuzatiladi",
+    "options": [
+      {
+        "text": "dn/dλ < 0",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "group": 3,
+    "question": "Qutblanish burchagi ostida tabiiy yorug‘lik ikki muhit chegarasiga tushganda, singan nur qanday qutblangan bo‘lad",
+    "options": [
+      {
+        "text": "qisman qutblangan bo‘ladi,",
+        "isCorrect": true
+      },
+      {
+        "text": "to‘la qutblangan bo‘ladi,",
+        "isCorrect": false
+      },
+      {
+        "text": "tabiiy yorug‘lik holda bo‘ladi,",
+        "isCorrect": false
+      },
+      {
+        "text": "tushish tekisligida qisman qutblangan bo‘ladi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "group": 3,
+    "question": "Malyus qonunini ko‘rsating",
+    "options": [
+      {
+        "text": "J = J0 cos^2 a",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "group": 3,
+    "question": "Sindirish ko‘rsatkichi  3,5  bo‘lgan shisha plastinkada yorug‘lik tezligi nimaga teng",
+    "options": [
+      {
+        "text": "2 * 10^8 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "1.5",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "1.5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "group": 3,
+    "question": "Qaysi tenglama Buger qonunini ifodalaydi.",
+    "options": [
+      {
+        "text": "I = I oe ^ -ax",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "group": 3,
+    "question": "Yorug‘lik to‘lqin uzunligi (λ) qaysi ifodadan aniqlanadi",
+    "options": [
+      {
+        "text": "λ═υT",
+        "isCorrect": true
+      },
+      {
+        "text": "λ═K∆",
+        "isCorrect": false
+      },
+      {
+        "text": "∆═Kλ",
+        "isCorrect": false
+      },
+      {
+        "text": "λ═S·n",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "group": 3,
+    "question": "Yorug‘lik to‘lqinlari vakumda qanday tezlikda tarqaladi",
+    "options": [
+      {
+        "text": "3·108m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "2·108m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "2·105m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "2·10-3m/s",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "group": 3,
+    "question": "Yorug‘lik to‘lqinlari bir jinsli fazoda qanday tarqaladi",
+    "options": [
+      {
+        "text": "to‘g‘ri chiziqli",
+        "isCorrect": true
+      },
+      {
+        "text": "tebranadi",
+        "isCorrect": false
+      },
+      {
+        "text": "aylanadi",
+        "isCorrect": false
+      },
+      {
+        "text": "tartibsiz",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "group": 3,
+    "question": "Tabiiy yorug‘likda interferensiya hodisasi kuzatilishi uchun, ularning kogerentlik vaqti qanday bo‘lishi kerak",
+    "options": [
+      {
+        "text": "10-8 s",
+        "isCorrect": true
+      },
+      {
+        "text": "1s",
+        "isCorrect": false
+      },
+      {
+        "text": "10-3s",
+        "isCorrect": false
+      },
+      {
+        "text": "10-6s",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "group": 3,
+    "question": "Muxitni sindirish ko‘rsatkichi (n)  qanday qiymatlarga ega bo‘ladi",
+    "options": [
+      {
+        "text": "n>1",
+        "isCorrect": true
+      },
+      {
+        "text": "n<1",
+        "isCorrect": false
+      },
+      {
+        "text": "n=1",
+        "isCorrect": false
+      },
+      {
+        "text": "n=0",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "group": 3,
+    "question": "Frenel zonasining radiusini ko‘rsating.",
+    "options": [
+      {
+        "text": "rm = ✓(a*b)/(a+b)*mλ",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "group": 3,
+    "question": "To‘yinish toki nima",
+    "options": [
+      {
+        "text": "fotoelementning volt-amper xarakteristikasida potensial farqi ortishi bilan fototokning o‘zgarmay qolishiga",
+        "isCorrect": true
+      },
+      {
+        "text": "kuchlanish ortishi bilan tok kuchi xam ortib borish holatiga",
+        "isCorrect": false
+      },
+      {
+        "text": "tok kuchi nolga aylanadigan kuchlanishning qiymati",
+        "isCorrect": false
+      },
+      {
+        "text": "tok kuchi va kuchlanish oniy qiymatlari",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "group": 4,
+    "question": "To‘xtatuvchi potensial nima",
+    "options": [
+      {
+        "text": "fototokning qiymati nolga aylanadigan kuchlanishning qiymati",
+        "isCorrect": true
+      },
+      {
+        "text": "kuchlanish ortishi bilan tok kuchi xam ortib borish holatiga",
+        "isCorrect": false
+      },
+      {
+        "text": "tok kuchi va kuchlanish oniy qiymatlari",
+        "isCorrect": false
+      },
+      {
+        "text": "fotoelementning volt-amper xarakteristikasida potensial farqi ortishi bilan fototokning o‘zgarmay qolishiga",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "group": 4,
+    "question": "Fototok  bo‘ladigan tormozlovchi kuchlanishning qiymatini qaysi tenglamadan aniqlash mumkin",
+    "options": [
+      {
+        "text": "mv^2max/2 = eU",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "group": 4,
+    "question": "Borning postulatiga asosan elektronning bir sathdan ikkinchi energetik sathga o‘tishiga mos keluvchi nurlanish chastotasi qanday aniqlanadi",
+    "options": [
+      {
+        "text": "V = Em - En / h",
+        "isCorrect": true
+      },
+      {
+        "text": "hν=Em-En",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "ν=s(Em©En)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "group": 4,
+    "question": "Foton impulsini ifodalovchi formulani ko‘rsating",
+    "options": [
+      {
+        "text": "Pf = hv/c",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "group": 4,
+    "question": "υ-tezlik bilan harakatlanayotgan m massali zarracha uchun de-Broyl to‘lqinining to‘lqin uzunligini ko‘rsating",
+    "options": [
+      {
+        "text": "λ = h/mv",
+        "isCorrect": true
+      },
+      {
+        "text": "λ ",
+        "isCorrect": false
+      },
+      {
+        "text": "λ ",
+        "isCorrect": false
+      },
+      {
+        "text": "λ ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "group": 4,
+    "question": "Potensiallar ayirmasi 10 V bo‘lgan maydondan o‘tgan elektronlar uchun de – Broyl to‘lqin uzunligini aniqlang",
+    "options": [
+      {
+        "text": "0.123*10^-9m",
+        "isCorrect": true
+      },
+      {
+        "text": "3.123*10^-9m",
+        "isCorrect": false
+      },
+      {
+        "text": "4.123*10^-9m",
+        "isCorrect": false
+      },
+      {
+        "text": "33.123*10^-9m",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "group": 4,
+    "question": "Har qanday chastota va temperaturada nur yutish qobilyati  (A =1 ) bo‘lgan jismni aniqlang",
+    "options": [
+      {
+        "text": "absolyut qora jism",
+        "isCorrect": true
+      },
+      {
+        "text": "kul rang",
+        "isCorrect": false
+      },
+      {
+        "text": "har qanday jism",
+        "isCorrect": false
+      },
+      {
+        "text": "oq jism",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "group": 4,
+    "question": "Qaysi tenglama Kirxgoff qonunini ifodalaydi?",
+    "options": [
+      {
+        "text": "Rvt / AvT = Rvt",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "group": 4,
+    "question": "Fotoelektronlarning kinetik energiyasi nimalarga bog‘liq bo‘ladi?",
+    "options": [
+      {
+        "text": "Fotokatodga tushayotgan yorug‘lik chastotasiga bog‘liq",
+        "isCorrect": true
+      },
+      {
+        "text": "Fotokatodga tushayotgan yorug‘lik intensivligiga bog‘liq",
+        "isCorrect": false
+      },
+      {
+        "text": "Fotokatodga yoritilganliga bog‘liq",
+        "isCorrect": false
+      },
+      {
+        "text": "Fotokaktodga tushayotgan yorug‘likning oqimiga bog‘liq",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "group": 4,
+    "question": "Fotoeffekt I- qonunining to‘g‘ri izohini ko‘rsating",
+    "options": [
+      {
+        "text": "Fototokning to‘yinish qiymati  fotokatodga tushayotgan yorug‘lik oqimiga to‘g‘ri proporsional",
+        "isCorrect": true
+      },
+      {
+        "text": "Fototokning kuchi fotokatodga tushayotgan yorug‘lik oqimiga to‘g‘ri proporsional",
+        "isCorrect": false
+      },
+      {
+        "text": "Fotokatoddan ajralayotgan elektronlar soni yorug‘lik intensivligiga proporsional",
+        "isCorrect": false
+      },
+      {
+        "text": "Yorug‘lik ta’sirida ajratib chiqayotgan fotoelektronlar soni, fotokatodning yoritilganligiga to‘g‘ri proporsional",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "group": 4,
+    "question": "Qaysi ifodadan atomning nurlanish chastotasini aniqlash mumkin",
+    "options": [
+      {
+        "text": "Em - En /h = v",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "group": 4,
+    "question": "Balmer formulasini ko‘rsating",
+    "options": [
+      {
+        "text": "V = R(1/m^2 - 1/n^2)",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "group": 4,
+    "question": "Borning ikkinchi postulatiga asosan elektronning bir orbitadan ikkinchisiga o‘tishiga mos keluvchi nurlanish chastotasi aniqlanadi.",
+    "options": [
+      {
+        "text": "v= Em - En / h",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "group": 4,
+    "question": "Harakatdan to‘xtagan foton massasi qancha?",
+    "options": [
+      {
+        "text": "Xarakatdan to‘xtagan foton masaaga ega emas",
+        "isCorrect": true
+      },
+      {
+        "text": "9,1∙10-31kg",
+        "isCorrect": false
+      },
+      {
+        "text": "1,6∙10-27kg",
+        "isCorrect": false
+      },
+      {
+        "text": "5∙10-30kg",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "group": 4,
+    "question": "Vakuumda elektromagnit to’lqinlarning tarqalish tezligi",
+    "options": [
+      {
+        "text": ".muhitda tarqalish tezligidan katta bo’ladi",
+        "isCorrect": true
+      },
+      {
+        "text": "muhitda tarqalish tezligiga teng bo’ladi",
+        "isCorrect": false
+      },
+      {
+        "text": "muhitda tarqalish tezligidan kichik bo’ladi.",
+        "isCorrect": false
+      },
+      {
+        "text": ".nolga teng,chunki vakuumda umuman tarqalmaydi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "group": 4,
+    "question": "Muxitni sindirish ko‘rsatkichi qaysi ifodada aniqlanadi",
+    "options": [
+      {
+        "text": "n = c/v",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "n=KA2",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "group": 4,
+    "question": "Fotoeffektning qizil chegarasiga mos keluvchi chastotani aniqlash formulasini ko‘rsating",
+    "options": [
+      {
+        "text": "vE = A /h",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "group": 4,
+    "question": ". Absolyut qora jism uchun Stefan-Bolsman qonunini ko‘rsating",
+    "options": [
+      {
+        "text": "Re = o * T^4",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "group": 4,
+    "question": "Kompton effekti qaysi nazariyani tasdiqlaydi",
+    "options": [
+      {
+        "text": "kvant nazariyasini",
+        "isCorrect": true
+      },
+      {
+        "text": "to‘lqin nazariyasini",
+        "isCorrect": false
+      },
+      {
+        "text": "ham to‘lqin ham kvant nazariyasini",
+        "isCorrect": false
+      },
+      {
+        "text": "elektron massaga ega ekanligini",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "group": 4,
+    "question": "Atomning asosiy holatida bosh kvant soni nechaga teng.",
+    "options": [
+      {
+        "text": "n = 1",
+        "isCorrect": true
+      },
+      {
+        "text": "n = 2",
+        "isCorrect": false
+      },
+      {
+        "text": "n = 3",
+        "isCorrect": false
+      },
+      {
+        "text": "n = 4",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "group": 4,
+    "question": "Aylana shaklidagi tokli o‘tkazgich markazidagi magnit maydon induksiyasi qanday o‘zgaradi agarda aylana radiusi 2 marobata va tok kuchi esa 4 marobata ortsa.",
+    "options": [
+      {
+        "text": "2 marta ortadi",
+        "isCorrect": true
+      },
+      {
+        "text": "4 marta kamayadi",
+        "isCorrect": false
+      },
+      {
+        "text": "4 marta ortadi",
+        "isCorrect": false
+      },
+      {
+        "text": "o‘zgarmaydi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "group": 4,
+    "question": "Uyurmaviy elektr maydon qanday yuzaga keladi.",
+    "options": [
+      {
+        "text": "Magnit maydonni o‘zgarishi natijasida fazoda yuzaga keladi",
+        "isCorrect": true
+      },
+      {
+        "text": "Qo‘zg‘almas zaryadlar atrofidagi fazoda  yuzaga keladi",
+        "isCorrect": false
+      },
+      {
+        "text": "Tokli o‘tkazgichlar atrofidagi fazoda yuzaga keladi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yaxlit jism atrofida.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "group": 4,
+    "question": "Solenoid o‘qida qanday magnit maydon hosil bo‘ladi",
+    "options": [
+      {
+        "text": "bir jinsli",
+        "isCorrect": true
+      },
+      {
+        "text": "bir jisli emas",
+        "isCorrect": false
+      },
+      {
+        "text": "uyurmali",
+        "isCorrect": false
+      },
+      {
+        "text": "notekis.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "group": 4,
+    "question": "Magnit maydon kuch chiziqlari qanday",
+    "options": [
+      {
+        "text": "Berk chiziqlar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ochiq chiziqlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Tutash chiziqlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Notekis",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "group": 4,
+    "question": "Po‘lat g‘altakdan 4 A tok o‘tganda, unda 2 mVb magnit oqimi hosil bo‘ladi. G‘altak induktivligi nimaga teng.",
+    "options": [
+      {
+        "text": "0,5 mGn",
+        "isCorrect": true
+      },
+      {
+        "text": "1 mGn",
+        "isCorrect": false
+      },
+      {
+        "text": "2 mGn",
+        "isCorrect": false
+      },
+      {
+        "text": "4 mGn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "group": 4,
+    "question": "Qanday zanjirga tebranishlar konturi deb nimaga aytiladi",
+    "options": [
+      {
+        "text": "tarkibida induktivlik va sig‘imi bor bo‘lgan yopiq zanjirga.",
+        "isCorrect": true
+      },
+      {
+        "text": "tarkibida aktiv qarshiliklar bor zanjirga.",
+        "isCorrect": false
+      },
+      {
+        "text": "istalgan zanjirga",
+        "isCorrect": false
+      },
+      {
+        "text": "tarkibida induktivlik va aktiv qarshilik bor zanjir.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "group": 4,
+    "question": "Magnit maydon qanday yuzaga keladi",
+    "options": [
+      {
+        "text": "Tokli o‘tkazgichlar atrofidagi fazoda yuzaga keladi",
+        "isCorrect": true
+      },
+      {
+        "text": "Qo‘zg‘almas zaryadlar atrofidagi fazoda  yuzaga keladi",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnit maydonni o‘zgarishi natijasida fazoda yuzaga keladi",
+        "isCorrect": false
+      },
+      {
+        "text": "Yaxlit jism atrofida",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "group": 4,
+    "question": "To‘la ichki qaytish burchagi qaysi ifoda bilan aniqlanadi",
+    "options": [
+      {
+        "text": "sini = 1/n",
+        "isCorrect": true
+      },
+      {
+        "text": "cosi=n",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "tgi = n21",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "group": 4,
+    "question": "Quyidagi ifodalardan qaysi biri magnit maydondagi harakatlanayotgan zaryadlangan zarraga ta’sir qiluvchi kuchni aniqlaydi?",
+    "options": [
+      {
+        "text": "q [vb]",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "group": 4,
+    "question": "Tompson formulasini ko‘rsating:",
+    "options": [
+      {
+        "text": "2p ✓LC",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "group": 4,
+    "question": "Agar yopiq konturni kesib o‘tuvchi magnit oqimi 0,2 s davomida 4 10-5 Vb ga o‘zarsa, induksiya  E.Y.K.  ni hisoblab toping.",
+    "options": [
+      {
+        "text": "10^-4 V",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "group": 4,
+    "question": "Agar g‘altakdan 2,5 A tok o‘tganda, unda 25 Vb magnit oqimi vujudga kelsa, g‘altakning induktivligi qanchaga teng bo‘ladi.",
+    "options": [
+      {
+        "text": "25 Gn",
+        "isCorrect": true
+      },
+      {
+        "text": "10 Gn",
+        "isCorrect": false
+      },
+      {
+        "text": "5 Gn",
+        "isCorrect": false
+      },
+      {
+        "text": "2.5 Gn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "group": 4,
+    "question": "Elektr tokining energiyasi ifodasini toping",
+    "options": [
+      {
+        "text": "W=I^2Rt = U^2/R * t",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "group": 4,
+    "question": "Magnit maydon induksiyasining \"SI\" dagi  birligini ko‘rsating",
+    "options": [
+      {
+        "text": "1Tl = N/A * m",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "group": 4,
+    "question": "Magnit maydon doimiysining son qiymatini aniqlang.",
+    "options": [
+      {
+        "text": "*4p^10^-7 gn/m",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "group": 4,
+    "question": "Kyuri harorati qanday harorat",
+    "options": [
+      {
+        "text": "ferromagnit moddalar paramagnit moddalarga aylanadi",
+        "isCorrect": true
+      },
+      {
+        "text": "ferromagnit moddalarning singdiruvchanligi cheksizlikka ortadi.",
+        "isCorrect": false
+      },
+      {
+        "text": "ferromagnit moddalarning magnitlanish vektori birga teng bo‘ladi",
+        "isCorrect": false
+      },
+      {
+        "text": "ferromagnit moddalar diamagnit moddalarga o‘tadi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "group": 4,
+    "question": "To‘la ichki qaytish burchagi qaysi ifoda bilan aniqlanadi",
+    "options": [
+      {
+        "text": "sin i = 1/n",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "cosi=n",
+        "isCorrect": false
+      },
+      {
+        "text": "tgi=n21",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "group": 4,
+    "question": "Geometriik optik qonunlari asosida ishlaydigan asboblarni ko‘rsating",
+    "options": [
+      {
+        "text": "mikroskop, telesko‘p, lupa",
+        "isCorrect": true
+      },
+      {
+        "text": "fotorezistor, difraksiion panjara",
+        "isCorrect": false
+      },
+      {
+        "text": "interferometr, refraktometr",
+        "isCorrect": false
+      },
+      {
+        "text": "fotoelement, lyuksmetr",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "group": 4,
+    "question": "Mikroskop yordamida shisha plastinkaning sindirish ko‘rsatkichini aniqlash formulasini ko‘rsating",
+    "options": [
+      {
+        "text": "n = sina / sinb",
+        "isCorrect": true
+      },
+      {
+        "text": "n=tgi",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "sini",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "group": 4,
+    "question": "Yorug‘likning to‘lqin xususiyatini belgilay olmaydigan ifodani ko‘rsating.",
+    "options": [
+      {
+        "text": "mc^2",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "mc5",
+        "isCorrect": false
+      },
+      {
+        "text": "dsin φ=kλ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "group": 4,
+    "question": "Fotoeffektning qizil chegarasiga mos keluvchi chastotani aniqlash formulasini ko‘rsating:",
+    "options": [
+      {
+        "text": "Ve = A/h",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "group": 4,
+    "question": "Agar zaryadlangan zarra magnit maydonda aylana bo‘ylab harakat qilsa, aylana radiusini aniqlovchi ifodani ko‘rsating.",
+    "options": [
+      {
+        "text": "mv / qb",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "group": 4,
+    "question": "Quyidagi ifodalardan qaysi biri magnit maydonlar superpozitsiyasini ifodalaydi?",
+    "options": [
+      {
+        "text": "B = sumB1",
+        "isCorrect": true
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "fo'rmula",
+        "isCorrect": false
+      },
+      {
+        "text": "dsin φ = kλ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "group": 4,
+    "question": "Elektr toki deb nimaga aytiladi?",
+    "options": [
+      {
+        "text": "Elektr zaryadlarning tartibli xarakatiga aytiladi",
+        "isCorrect": true
+      },
+      {
+        "text": "Zaryadni ko'chirishda bajarilgan ishi",
+        "isCorrect": false
+      },
+      {
+        "text": "Zaryadlarning xarakatiga aytiladi",
+        "isCorrect": false
+      },
+      {
+        "text": "Zaryadli zarralarning algebrik yig‘indisiga aytiladi.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "group": 4,
+    "question": "Tok kuchini CI sistemada birligini ko‘rsating.",
+    "options": [
+      {
+        "text": "Amper",
+        "isCorrect": true
+      },
+      {
+        "text": "Joul",
+        "isCorrect": false
+      },
+      {
+        "text": "Nyuton",
+        "isCorrect": false
+      },
+      {
+        "text": "kg",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "group": 4,
+    "question": "Yorug'lik chastotasining minimal qiymatiga to'lqin uzunligining …..",
+    "options": [
+      {
+        "text": "maksimal qiymati to'g'ri keladi",
+        "isCorrect": true
+      },
+      {
+        "text": "minimal qiymati to'g'ri keladi",
+        "isCorrect": false
+      },
+      {
+        "text": "chastota bilan to'lqin uzunligi o'zaro bog'liq emas",
+        "isCorrect": false
+      },
+      {
+        "text": "o'rtacha qiymati to'g'ri keladi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "group": 4,
+    "question": "O'tkazgichning temperaturasi ortichi bilan uning solishtirma qarshiligi …..",
+    "options": [
+      {
+        "text": "chiziqli ortadi",
+        "isCorrect": true
+      },
+      {
+        "text": "chiziqli kamayadi",
+        "isCorrect": false
+      },
+      {
+        "text": "eksponensial ortadi",
+        "isCorrect": false
+      },
+      {
+        "text": "eksponensial kamayadi",
+        "isCorrect": false
+      }
+    ]
+  }
+]
