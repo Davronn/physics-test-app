@@ -8,6 +8,8 @@ body {
   @apply bg-white text-black;
 }
 
+
+
 .btn_darkmode{
   position: fixed;
   bottom: 20px;
