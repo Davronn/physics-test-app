@@ -5,11 +5,8 @@ import TestGroup from "@/components/TestGroup";
 import  questions  from "@/data/questions.json";
 import { shuffleArray } from "@/utils/shuffle";
 
-interface PageProps {
-  params: { id: number };
-}
 
-export default function GroupPage({ params }: PageProps) {
+export default function GroupPage({ params }: { params: { id: string } }) {
   const groupId = Number(params.id);
 
   // Guruhga oid savollarni filtrlaymiz
