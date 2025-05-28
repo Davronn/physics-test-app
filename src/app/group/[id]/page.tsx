@@ -6,7 +6,7 @@ import  questions  from "@/data/questions.json";
 import { shuffleArray } from "@/utils/shuffle";
 
 interface PageProps {
-  params: { id: string };
+  params: { id: number };
 }
 
 export default function GroupPage({ params }: PageProps) {
