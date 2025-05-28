@@ -2,17 +2,15 @@
 
 import BackToHomeButton from "@/components/BackToHome";
 import TestGroup from "@/components/TestGroup";
-import  questions  from "@/data/questions.json";
+import questions from "@/data/questions.json";
 import { shuffleArray } from "@/utils/shuffle";
 
+export default async function GroupPage({ params }: { params: Promise<{ id: string }> }) {
+  const resolvedParams = await params;
+  const groupId = Number(resolvedParams.id);
 
-export default function GroupPage({ params }: { params: { id: string } }) {
-  const groupId = Number(params.id);
-
-  // Guruhga oid savollarni filtrlaymiz
   const filteredQuestions = questions.filter(q => q.group === groupId);
 
-  // Har bir savolning optionsini aralashtirish uchun yangi array yaratamiz
   const shuffledQuestions = shuffleArray(filteredQuestions)
     .slice(0, 50)
     .map(q => ({
